@@ -4,16 +4,9 @@
 
 [اگر می‌خواهید که طراحی فونت‌های فارسی رایگان را برای من آسان‌تر کنید، می‌توانید اینجا از این کار **حمایت** کنید :)](https://www.payping.ir/si47ash)
 
+
 **لینک فونتهای آزاد شهاب سیاوش:**
 
-
-![](http://shahabsiavash.com/36.jpg)
-
-[دانلود سیاوش‌میترادِفُرمْدْسی به رایگان!](http://shahabsiavash.com/downloaorbuyfontsp.html)
-
-![](http://shahabsiavash.com/9.jpg)
-
-[دانلود سیاوش‌میترادِفُرمْدْ به رایگان!] (http://shahabsiavash.com/downloaorbuyfontsp.html)
 
 ![](http://shahabsiavash.com/26.jpg)
 
