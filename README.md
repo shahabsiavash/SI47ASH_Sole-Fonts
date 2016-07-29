@@ -1,4 +1,14 @@
-# فونت‌های فارسی شهاب سیاوش
+# This font family has been developed to a whole new project named: **KayKhosrow Font** families.
+
+### It includes 7 families and 12 subfamilies.
+
+### **See it here: [KayKhosrow-Font](https://github.com/shahabsiavash/KayKhosrow-Font)**
+
+
+
+
+
+فونت‌های فارسی شهاب سیاوش
 
 این فونتها چندین سال قبل طراحی شده‌اند و اکنون تحت **لایسنس آزاد** عرضه شده‌اند. طراحان و توسعه‌دهندگان می‌توانند در موارد خاص که نیاز به چنین فونت‌هایی برای کارهای گرافیکی خود دارند، از این فونتها به رایگان استفاده کنند.
 
